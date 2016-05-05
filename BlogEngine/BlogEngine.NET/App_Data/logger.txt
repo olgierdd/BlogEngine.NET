@@ -1,0 +1,63 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:35:56 PM
+Can not find any files installed for package: AllTuts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:36:06 PM
+PUT http://localhost:64079/api/packages/uninstall/AllTuts: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:36:18 PM
+Can not find any files installed for package: Boldy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:36:28 PM
+PUT http://localhost:64079/api/packages/uninstall/Boldy: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:45:02 PM
+Installed package AllTuts by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:45:44 PM
+Can not find any files installed for package: AllTuts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:45:44 PM
+BlogEngine.Core.Packaging.Installer.InstallPackage(AllTuts): Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:45:45 PM
+Can not find any files installed for package: AllTuts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:45:52 PM
+PUT http://localhost:64079/api/packages/install/AllTuts: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:46:36 PM
+Installed package FlatBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:49:58 PM
+Uninstalled package FlatBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:50:26 PM
+Can not find any files installed for package: AllTuts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:50:26 PM
+BlogEngine.Core.Packaging.Installer.InstallPackage(AllTuts): Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:50:26 PM
+Can not find any files installed for package: AllTuts
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:50:32 PM
+PUT http://localhost:64079/api/packages/install/AllTuts: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:51:56 PM
+Installed package Boldy by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:52:11 PM
+Can not find any files installed for package: Boldy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:52:11 PM
+BlogEngine.Core.Packaging.Installer.InstallPackage(Boldy): Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:52:11 PM
+Can not find any files installed for package: Boldy
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:52:15 PM
+PUT http://localhost:64079/api/packages/install/Boldy: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/4/2016 11:52:32 PM
+Installed package SimpleBlog by admin
