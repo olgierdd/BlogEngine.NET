@@ -6,8 +6,8 @@
 <head runat="server">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <link href="<%# Page.ResolveUrl("~/Custom/Themes/" + BlogSettings.Instance.Theme + "/include/styles.min.css") %>" rel="stylesheet" />
-    <link href='<%# Page.ResolveUrl("~/editors/tiny_mce_3_5_8/plugins/syntaxhighlighter/styles/shCore.css") %>' rel="stylesheet" />
-    <link href='<%# Page.ResolveUrl("~/editors/tiny_mce_3_5_8/plugins/syntaxhighlighter/styles/shThemeDefault.css") %>' rel="stylesheet" />
+    <link href='<%# Page.ResolveUrl("~/scripts/syntaxhighlighter/styles/shCore.css") %>' rel="stylesheet" />
+    <link href='<%# Page.ResolveUrl("~/scripts/syntaxhighlighter/styles/shThemeDefault.css") %>' rel="stylesheet" />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
     <link rel="shortcut icon" href="~/pics/blogengine.ico" type="image/x-icon" />
     <script type="text/javascript" src="<%# ShRoot %>scripts/XRegExp.js"></script>
@@ -95,9 +95,9 @@
                 <div class="footer-line">
                     <div class="container text-center">
                         <p>Copyright &copy; <%=DateTime.Now.Year %><span class="separator separator-1">
-                            </span>Powered by <a href="http://dotnetblogengine.net" target="_blank">BlogEngine.NET</a> <%=BlogSettings.Instance.Version() %>
+                            </span>Livid Software LLC 
                             <span class="separator separator-2"></span>
-                            <a href="http://seyfolahi.net/" title="SimpleBlog theme for BlogEngine 2.9" target="_blank">Design by FS</a>
+                            Powered by BlogEngine.NET
                             <span class="separator separator-3"></span>
                             <a runat="server" id="aLogin"></a></p>
                         <span class="scrollup"></span>

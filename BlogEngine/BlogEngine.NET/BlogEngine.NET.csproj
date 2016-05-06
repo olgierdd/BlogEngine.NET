@@ -549,6 +549,23 @@
     <Content Include="Custom\Controls\Defaults\CommentView.ascx" />
     <Content Include="Custom\Controls\Defaults\PostView.ascx" />
     <Content Include="Custom\Media\sample.flv" />
+    <Content Include="Custom\Themes\SimpleBlog\Changelog.txt" />
+    <Content Include="Custom\Themes\SimpleBlog\CommentView.ascx" />
+    <Content Include="Custom\Themes\SimpleBlog\img\BtnSearch.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\effect_1.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\effect_2.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\effect_3.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\nav.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\social.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\success.png" />
+    <Content Include="Custom\Themes\SimpleBlog\img\up.png" />
+    <Content Include="Custom\Themes\SimpleBlog\include\index.js" />
+    <Content Include="Custom\Themes\SimpleBlog\include\modernizr.js" />
+    <Content Include="Custom\Themes\SimpleBlog\include\styles.min.css" />
+    <Content Include="Custom\Themes\SimpleBlog\newsletter.html" />
+    <Content Include="Custom\Themes\SimpleBlog\PostView.ascx" />
+    <Content Include="Custom\Themes\SimpleBlog\theme.xml" />
+    <Content Include="Custom\Themes\SimpleBlog\WidgetContainer.ascx" />
     <Content Include="Custom\Themes\Standard-2015\CommentForm.ascx" />
     <Content Include="Custom\Themes\Standard-2015\CommentView.ascx" />
     <Content Include="Custom\Themes\Standard-2015\css\bootstrap.min.css" />
@@ -759,6 +776,7 @@
     <Content Include="admin\themes\standard\scss\rtl\_rtl.sidebar.scss" />
     <Content Include="admin\themes\standard\scss\rtl\_rtl.tables.scss" />
     <Content Include="admin\themes\standard\scss\styles.scss" />
+    <Content Include="Custom\Themes\SimpleBlog\site.master" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />
@@ -2144,6 +2162,13 @@
     </Compile>
     <Compile Include="contact.aspx.designer.cs">
       <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\Themes\SimpleBlog\site.master.cs">
+      <DependentUpon>site.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\Themes\SimpleBlog\site.master.designer.cs">
+      <DependentUpon>site.master</DependentUpon>
     </Compile>
     <Compile Include="Custom\Themes\Standard-2015\site.master.cs">
       <DependentUpon>site.master</DependentUpon>

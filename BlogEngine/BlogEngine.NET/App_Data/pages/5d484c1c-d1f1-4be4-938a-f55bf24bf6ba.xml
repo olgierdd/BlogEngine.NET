@@ -1,20 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <page>
   <title>Example page</title>
-  <description />
-  <content>&lt;p&gt;
-This is an example page. 
-&lt;/p&gt;
-&lt;p&gt;
-&amp;nbsp;For more information about pages and how to use them,&amp;nbsp;visit the &lt;a href="http://blogengine.codeplex.com/documentation"&gt;BlogEngine.NET wiki&lt;/a&gt;. 
-&lt;/p&gt;</content>
-  <keywords />
+  <description>Hi everyone,
+This is Olgierd from NY City.
+Among friends I go by the name of Olo and let&amp;rsquo;s sti</description>
+  <content>&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;This is Olgierd from NY City.&lt;/p&gt;
+&lt;p&gt;Among friends I go by the name of Olo and let&amp;rsquo;s stick to that.&lt;/p&gt;
+&lt;p&gt;I am a software developer working in New York City on highly scalable web applications in the Windows Azure Cloud.&lt;/p&gt;
+&lt;p&gt;Let me drive your attention to the TypeScrip language which makes JavaScript very easy to use and scalable for any application size.&lt;/p&gt;
+&lt;p&gt;We all know about the enormous popularity of the JavaScript during the last 5 years. This growth seems to continue. We have seen a fantastic development of such browser frameworks as Angular, React and nodejs on the server side. At the core, we have JavaScript which was never designed for building large applications. It was actually intended for up to a couple of 100s lines of code.&lt;/p&gt;
+&lt;p&gt;Building more complex and larger application in a dynamic language is very hard. All those&amp;nbsp; powerful and smart tools we love like Visual Studio, Eclipse and so on, are rely on the static type system. These tools analyze programs, give you a statement completion,&amp;nbsp; find references, support refactoring and catch bugs.&lt;/p&gt;
+&lt;p&gt;Why you should consider studying and using TyeScript:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it provides you with great tools which improve productivity,&lt;/li&gt;
+&lt;li&gt;it brings the up to date and powerful language features,&lt;/li&gt;
+&lt;li&gt;industry leaders like Google and Microsoft use it for developing&amp;nbsp; new front end frameworks,&lt;/li&gt;
+&lt;li&gt;developers and software house consider it to be state of the art technology with grow of demand on the job market.&lt;/li&gt;
+&lt;/ul&gt;</content>
+  <keywords>TypeScript</keywords>
   <slug>example-page</slug>
   <parent>00000000-0000-0000-0000-000000000000</parent>
-  <isfrontpage>False</isfrontpage>
+  <isfrontpage>True</isfrontpage>
   <showinlist>True</showinlist>
   <ispublished>True</ispublished>
   <isdeleted>False</isdeleted>
-  <datecreated>2013-12-27 22:12:00</datecreated>
+  <sortorder>0</sortorder>
+  <datecreated>2016-05-05 22:12:00</datecreated>
   <datemodified>2013-12-27 22:03:47</datemodified>
 </page>
