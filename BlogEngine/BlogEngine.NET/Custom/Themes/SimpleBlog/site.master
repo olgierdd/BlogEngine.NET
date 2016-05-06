@@ -55,14 +55,8 @@
                         </div>
                         <div class="social float-right" id="social">
                             <ul class="tooltip">
-                                <li class="fb"><a href="http://facebook.com/[CUSTOMFIELD|THEME|SimpleBlog|Facebook account|#/]" title="Facebook" rel="nofollow" target="_blank"><span>Facebook</span></a></li>
-                                <li class="tw"><a href="http://twitter.com/[CUSTOMFIELD|THEME|SimpleBlog|Twitter account|#/]" title="Twitter" rel="nofollow" target="_blank"><span>Twitter</span></a></li>
-                                <li class="gp"><a href="http://plus.google.com/[CUSTOMFIELD|THEME|SimpleBlog|Google+ account|#/]" title="Google Plus" rel="author" target="_blank"><span>Google Plus</span></a></li>
-                                <li class="rs"><a href="<%=Utils.AbsoluteWebRoot %>[CUSTOMFIELD|THEME|SimpleBlog|RSS Feed|syndication.axd/]" title="<%= Resources.labels.subscribe %>"><span>Subscrib</span></a></li>
-                                <li class="yt"><a href="http://youtube.com/[CUSTOMFIELD|THEME|SimpleBlog|YouTube account|#/]" title="Youtube" rel="nofollow" target="_blank"><span>Youtube</span></a></li>
-                                <li class="li"><a href="http://linkedin.com/in/[CUSTOMFIELD|THEME|SimpleBlog|Linkedin account|#/]" title="Linkedin" rel="nofollow" target="_blank"><span>LinkedIn</span></a></li>
-                                <li class="is"><a href="http://instagram.com/[CUSTOMFIELD|THEME|SimpleBlog|Instagram account|#/]" title="Instagram" rel="nofollow" target="_blank"><span>Instagram</span></a></li>
-                                <li class="gi"><a href="http://github.com/[CUSTOMFIELD|THEME|SimpleBlog|github account|#/]" title="github" rel="nofollow" target="_blank"><span>github</span></a></li>
+                                <li class="tw"><a href="https://twitter.com/olgierd2d" title="Twitter" rel="nofollow" target="_blank"><span>Twitter</span></a></li>
+                                <li class="li"><a href="https://www.linkedin.com/in/olgierd-dziamski-8996954a" title="Linkedin" rel="nofollow" target="_blank"><span>LinkedIn</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -94,7 +88,8 @@
                 </div>
                 <div class="footer-line">
                     <div class="container text-center">
-                        <p>Copyright &copy; <%=DateTime.Now.Year %><span class="separator separator-1">
+                        <p>Copyright &copy; <%=DateTime.Now.Year %>
+                            <span class="separator separator-1">
                             </span>Livid Software LLC 
                             <span class="separator separator-2"></span>
                             Powered by BlogEngine.NET
